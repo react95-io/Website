@@ -108,7 +108,7 @@ export default function Hero() {
         <Links>
           <Code>
             Star on{" "}
-            <Anchor href="https://github.com/arturbien/React95">Github</Anchor>,
+            <Anchor href="https://github.com/react95-io">Github</Anchor>,
             let it{" "}
             <Tooltip text="grow" enterDelay={0}>
               <img src={Grow} alt="Growing seed" />
@@ -118,7 +118,7 @@ export default function Hero() {
           <br />
           <Code as="p">
             Then, see{" "}
-            <Anchor href="https://storybook.react95.io/?path=/story/window--default">
+            <Anchor href="https://storybook.react95.io/">
               components
             </Anchor>
             .
